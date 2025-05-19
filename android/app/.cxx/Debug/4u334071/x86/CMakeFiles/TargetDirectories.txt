@@ -1,0 +1,2 @@
+/Users/joelespinal/dev/flutter/flutter_riverpod_essential_course/provider_repo/riverpod-essential-provider/android/app/.cxx/Debug/4u334071/x86/CMakeFiles/edit_cache.dir
+/Users/joelespinal/dev/flutter/flutter_riverpod_essential_course/provider_repo/riverpod-essential-provider/android/app/.cxx/Debug/4u334071/x86/CMakeFiles/rebuild_cache.dir
